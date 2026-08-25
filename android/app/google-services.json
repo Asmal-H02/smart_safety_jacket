@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "73371540080",
+    "firebase_url": "https://safetyjacket4iot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "safetyjacket4iot",
+    "storage_bucket": "safetyjacket4iot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73371540080:android:5b7e5e26aa0052471172b5",
+        "android_client_info": {
+          "package_name": "com.example.smart_safety_jacket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NBqdHMlbpxtsjDgwEnljXmGqhgAI4cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
